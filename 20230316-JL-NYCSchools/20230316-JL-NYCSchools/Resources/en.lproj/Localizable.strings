@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  20230316-JL-NYCSchools
+
+  Created by JEFFREY LOSAPIO on 3/16/23.
+  
+*/
+
+// MARK: - Shared
+"network_error" = "Network Error";
+
+// MARK: - School List
+"highschool_list_title" = "Highschool List";
+"pull_to_refresh" = "Pull To Refresh";
+
+// MARK: - School Detail List
+"avg_math_score_label" = "Average Math Score:";
+"avg_reading_score_label" = "Average Reading Score:";
+"avg_writing_score_label" = "Average Writing Score:";
+"neighborhood_label" = "Neighborhood";
+"no_sat_data" = "NO SAT DATA AVAILABLE";
+"sat_taker_label" = "SAT Taker Total:";
+"school_name_label" = "School Name:";
+
